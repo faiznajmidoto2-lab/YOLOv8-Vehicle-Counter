@@ -21,7 +21,7 @@ This project is a **real-time vehicle counting system** that uses computer visio
 - **Data Export:** Exports all counts to CSV for further analysis in tools like Excel or Power BI.
 
 ## 📸 Screenshot
-![GUI](images/dashboard_preview.png)
+![GUI](detection/gui_preview.png)
 
 ## 🛠️ Tech Stack
 - **Computer Vision:** OpenCV, Ultralytics YOLOv8
