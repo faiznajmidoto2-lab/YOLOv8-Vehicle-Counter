@@ -27,6 +27,10 @@ I developed this real-time vehicle counting system to automate the process. By l
 ##  Screenshot
 ![GUI](detection/gui_preview.png)
 
+##  How It Works
+![System Architecture](detection/project_architecture.png)
+*The system combines YOLOv8 for object detection, ByteTrack for trajectory tracking, and geometric line-crossing logic to accurately count vehicles across two lanes.*
+
 ## Tech Stack
 - **Computer Vision:** OpenCV, Ultralytics YOLOv8
 - **Tracking:** ByteTrack
